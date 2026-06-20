@@ -1,0 +1,1 @@
+"""Speech assistance backend package."""

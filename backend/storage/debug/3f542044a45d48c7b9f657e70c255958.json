@@ -1,0 +1,352 @@
+{
+  "raw": "ಮಂದುರಲ್ಲಿ ಒಂದು ಫಾರ್ಮರ್ ಇತ್ನಂತ್ತೆ. ಅವಾಗ ಮಡ್ಕೆ ಅಳ್ಕೊಂ ಕೂಡಿತ್ತನ್ತೆ. ನಾನೆ ಆಗಾ ಫಾರ್ಮರಂದ ನಿಂದು ಯೋಸ್ನೆ ಮಾಟ್ರಡಾ, ಇಲ್ಲಿ ನಿಂದು ಫ್ಲಾವರ್ಜಿದೆ ನಿಂದು ಕಡೆಯತ್ರಾ, ಅಮಲ್ಲಿ ಇನುಂ ಮಟ್ಕೆ ಕಡೆಯಾಕ್ಕೆ ಇಲ್ಲಾ, ನಾನು ಗೊತ್ತು ನಿಂದು ವರ್ದು � ಇದಿಯಾಂತಾ ಅಧಿಕೆ ನಾನು ಇದೋ ಸಿಸ್ಕೊಳಿನ ಇದೋ ಪ್ಲಾಂಟ್ ಮಾರುದಿನೆನ್ ನಿನು ದಿನಾ ನಿನು ರಿವರ್ ಇಂದಪರ್ತಾ ನಿನು ತಾವಿದು",
+  "disfluency": "ಮಂದುರಲ್ಲಿ ಒಂದು ಫಾರ್ಮರ್ ಇತ್ನಂತ್ತೆ. ಅವಾಗ ಮಡ್ಕೆ ಅಳ್ಕೊಂ ಕೂಡಿತ್ತನ್ತೆ. ನಾನೆ ಆಗಾ ಫಾರ್ಮರಂದ ನಿಂದು ಯೋಸ್ನೆ ಮಾಟ್ರಡಾ, ಇಲ್ಲಿ ನಿಂದು ಫ್ಲಾವರ್ಜಿದೆ ನಿಂದು ಕಡೆಯತ್ರಾ, ಅಮಲ್ಲಿ ಇನುಂ ಮಟ್ಕೆ ಕಡೆಯಾಕ್ಕೆ ಇಲ್ಲಾ, ನಾನು ಗೊತ್ತು ನಿಂದು ವರ್ದು � ಇದಿಯಾಂತಾ ಅಧಿಕೆ ನಾನು ಇದೋ ಸಿಸ್ಕೊಳಿನ ಇದೋ ಪ್ಲಾಂಟ್ ಮಾರುದಿನೆನ್ ನಿನು ದಿನಾ ನಿನು ರಿವರ್ ಇಂದಪರ್ತಾ ನಿನು ತಾವಿದು",
+  "normalized": "ಮಂದುರಲ್ಲಿ ಒಂದು farmer ಇತ್ನಂತ್ತೆ. ಅವಾಗ ಮಡಿಕೆ ಅಳ್ಕೊಂ ಕೂಡಿತ್ತನ್ತೆ. ನಾನೆ ಆಗಾ ಫಾರ್ಮರಂದ ನಿಂದು ಯೋಚನೆ ಮಾಟ್ರಡಾ, ಇಲ್ಲಿ ನಿಂದು ಫ್ಲಾವರ್ಜಿದೆ ನಿಂದು ಕಡೆಯತ್ರಾ, ಅಮಲ್ಲಿ ಇನುಂ ಮಡಿಕೆ ಕಡೆಯಾಕ್ಕೆ ಇಲ್ಲಾ, ನಾನು ಗೊತ್ತು ನಿಂದು ವರ್ದು � ಇದಿಯಾಂತಾ ಅಧಿಕೆ ನಾನು ಇದೋ ಸಿಸ್ಕೊಳಿನ ಇದೋ ಪ್ಲಾಂಟ್ ಮಾರುದಿನೆನ್ ನಿನು ದಿನಾ ನಿನು ರಿವರ್ ಇಂದಪರ್ತಾ ನಿನು ತಾವಿದು",
+  "final": "ಮಂದುರಲ್ಲಿ ಒಂದು ಫಾರ್ಮರ್ ಇತ್ನಂತ್ತೆ. ಅವಾಗ ಮಡ್ಕೆ ಅಳ್ಕೊಂ ಕೂಡಿತ್ತನ್ತೆ. ನಾನೆ ಆಗಾ ಫಾರ್ಮರಂದ ನಿಂದು ಯೋಸ್ನೆ ಮಾಟ್ರಡಾ, ಇಲ್ಲಿ ನಿಂದು ಫ್ಲಾವರ್ಜಿದೆ ನಿಂದು ಕಡೆಯತ್ರಾ, ಅಮಲ್ಲಿ ಇನುಂ ಮಟ್ಕೆ ಕಡೆಯಾಕ್ಕೆ ಇಲ್ಲಾ, ನಾನು ಗೊತ್ತು ನಿಂದು ವರ್ದು � ಇದಿಯಾಂತಾ ಅಧಿಕೆ ನಾನು ಇದೋ ಸಿಸ್ಕೊಳಿನ ಇದೋ ಪ್ಲಾಂಟ್ ಮಾರುದಿನೆನ್ ನಿನು ದಿನಾ ನಿನು ರಿವರ್ ಇಂದಪರ್ತಾ ನಿನು ತಾವಿದು",
+  "language": "kn",
+  "accepted": false,
+  "similarity_score": 0.8658,
+  "reason": "Correction rejected because semantic similarity is below threshold.",
+  "segments": [
+    {
+      "text": "ಮಂದುರಲ್ಲಿ ಒಂದು ಫಾರ್ಮರ್ ಇತ್ನಂತ್ತೆ. ಅವಾಗ ಮಡ್ಕೆ ಅಳ್ಕೊಂ ಕೂಡಿತ್ತನ್ತೆ.",
+      "avg_logprob": -0.22521756881865385,
+      "no_speech_prob": 0.30082666873931885,
+      "compression_ratio": 1.6261682242990654,
+      "risk_level": "MEDIUM"
+    },
+    {
+      "text": "ನಾನೆ ಆಗಾ ಫಾರ್ಮರಂದ ನಿಂದು ಯೋಸ್ನೆ ಮಾಟ್ರಡಾ, ಇಲ್ಲಿ ನಿಂದು ಫ್ಲಾವರ್ಜಿದೆ ನಿಂದು ಕಡೆಯತ್ರಾ, ಅಮಲ್ಲಿ ಇನುಂ ಮಟ್ಕೆ ಕಡೆಯಾಕ್ಕೆ ಇಲ್ಲಾ, ನಾನು ಗೊತ್ತು ನಿಂದು ವರ್ದು �",
+      "avg_logprob": -0.1471286752488878,
+      "no_speech_prob": 0.11357147246599197,
+      "compression_ratio": 2.2,
+      "risk_level": "HIGH"
+    },
+    {
+      "text": "ಇದಿಯಾಂತಾ ಅಧಿಕೆ ನಾನು ಇದೋ ಸಿಸ್ಕೊಳಿನ ಇದೋ ಪ್ಲಾಂಟ್ ಮಾರುದಿನೆನ್",
+      "avg_logprob": -0.19747513050804594,
+      "no_speech_prob": 0.5782784223556519,
+      "compression_ratio": 2.0,
+      "risk_level": "LOW"
+    },
+    {
+      "text": "ನಿನು ದಿನಾ ನಿನು ರಿವರ್ ಇಂದಪರ್ತಾ ನಿನು ತಾವಿದು",
+      "avg_logprob": -0.19747513050804594,
+      "no_speech_prob": 0.5782784223556519,
+      "compression_ratio": 2.0,
+      "risk_level": "LOW"
+    }
+  ],
+  "words": [
+    {
+      "word": "ಮಂದುರಲ್ಲಿ",
+      "start": 0.62,
+      "end": 2.56,
+      "probability": 0.8422,
+      "risk_level": "HIGH"
+    },
+    {
+      "word": "ಒಂದು",
+      "start": 2.56,
+      "end": 3.14,
+      "probability": 0.9333,
+      "risk_level": "VERY_HIGH"
+    },
+    {
+      "word": "ಫಾರ್ಮರ್",
+      "start": 3.14,
+      "end": 3.88,
+      "probability": 0.9243,
+      "risk_level": "VERY_HIGH"
+    },
+    {
+      "word": "ಇತ್ನಂತ್ತೆ.",
+      "start": 3.88,
+      "end": 4.56,
+      "probability": 0.8987,
+      "risk_level": "HIGH"
+    },
+    {
+      "word": "ಅವಾಗ",
+      "start": 14.34,
+      "end": 15.74,
+      "probability": 0.8095,
+      "risk_level": "HIGH"
+    },
+    {
+      "word": "ಮಡ್ಕೆ",
+      "start": 15.74,
+      "end": 18.58,
+      "probability": 0.8897,
+      "risk_level": "HIGH"
+    },
+    {
+      "word": "ಅಳ್ಕೊಂ",
+      "start": 18.58,
+      "end": 23.96,
+      "probability": 0.8605,
+      "risk_level": "HIGH"
+    },
+    {
+      "word": "ಕೂಡಿತ್ತನ್ತೆ.",
+      "start": 23.96,
+      "end": 25.22,
+      "probability": 0.7584,
+      "risk_level": "HIGH"
+    },
+    {
+      "word": "ನಾನೆ",
+      "start": 25.22,
+      "end": 26.46,
+      "probability": 0.9109,
+      "risk_level": "VERY_HIGH"
+    },
+    {
+      "word": "ಆಗಾ",
+      "start": 26.46,
+      "end": 26.84,
+      "probability": 0.8479,
+      "risk_level": "HIGH"
+    },
+    {
+      "word": "ಫಾರ್ಮರಂದ",
+      "start": 26.84,
+      "end": 28.88,
+      "probability": 0.8976,
+      "risk_level": "HIGH"
+    },
+    {
+      "word": "ನಿಂದು",
+      "start": 28.88,
+      "end": 31.06,
+      "probability": 0.7713,
+      "risk_level": "HIGH"
+    },
+    {
+      "word": "ಯೋಸ್ನೆ",
+      "start": 31.06,
+      "end": 31.62,
+      "probability": 0.8876,
+      "risk_level": "HIGH"
+    },
+    {
+      "word": "ಮಾಟ್ರಡಾ,",
+      "start": 31.62,
+      "end": 32.48,
+      "probability": 0.8544,
+      "risk_level": "HIGH"
+    },
+    {
+      "word": "ಇಲ್ಲಿ",
+      "start": 32.5,
+      "end": 33.6,
+      "probability": 0.9495,
+      "risk_level": "VERY_HIGH"
+    },
+    {
+      "word": "ನಿಂದು",
+      "start": 33.6,
+      "end": 34.26,
+      "probability": 0.926,
+      "risk_level": "VERY_HIGH"
+    },
+    {
+      "word": "ಫ್ಲಾವರ್ಜಿದೆ",
+      "start": 34.26,
+      "end": 36.9,
+      "probability": 0.8342,
+      "risk_level": "HIGH"
+    },
+    {
+      "word": "ನಿಂದು",
+      "start": 36.9,
+      "end": 37.34,
+      "probability": 0.9407,
+      "risk_level": "VERY_HIGH"
+    },
+    {
+      "word": "ಕಡೆಯತ್ರಾ,",
+      "start": 37.34,
+      "end": 38.12,
+      "probability": 0.9,
+      "risk_level": "HIGH"
+    },
+    {
+      "word": "ಅಮಲ್ಲಿ",
+      "start": 38.14,
+      "end": 39.0,
+      "probability": 0.9022,
+      "risk_level": "VERY_HIGH"
+    },
+    {
+      "word": "ಇನುಂ",
+      "start": 39.0,
+      "end": 39.46,
+      "probability": 0.8046,
+      "risk_level": "HIGH"
+    },
+    {
+      "word": "ಮಟ್ಕೆ",
+      "start": 39.46,
+      "end": 40.24,
+      "probability": 0.9425,
+      "risk_level": "VERY_HIGH"
+    },
+    {
+      "word": "ಕಡೆಯಾಕ್ಕೆ",
+      "start": 40.24,
+      "end": 42.18,
+      "probability": 0.8629,
+      "risk_level": "HIGH"
+    },
+    {
+      "word": "ಇಲ್ಲಾ,",
+      "start": 42.18,
+      "end": 42.92,
+      "probability": 0.9704,
+      "risk_level": "VERY_HIGH"
+    },
+    {
+      "word": "ನಾನು",
+      "start": 42.94,
+      "end": 43.68,
+      "probability": 0.8855,
+      "risk_level": "HIGH"
+    },
+    {
+      "word": "ಗೊತ್ತು",
+      "start": 43.68,
+      "end": 44.14,
+      "probability": 0.9697,
+      "risk_level": "VERY_HIGH"
+    },
+    {
+      "word": "ನಿಂದು",
+      "start": 44.14,
+      "end": 44.44,
+      "probability": 0.9935,
+      "risk_level": "VERY_HIGH"
+    },
+    {
+      "word": "ವರ್ದು",
+      "start": 44.44,
+      "end": 44.88,
+      "probability": 0.9131,
+      "risk_level": "VERY_HIGH"
+    },
+    {
+      "word": "�",
+      "start": 44.88,
+      "end": 44.96,
+      "probability": 0.9784,
+      "risk_level": "VERY_HIGH"
+    },
+    {
+      "word": "ಇದಿಯಾಂತಾ",
+      "start": 44.96,
+      "end": 45.76,
+      "probability": 0.8515,
+      "risk_level": "HIGH"
+    },
+    {
+      "word": "ಅಧಿಕೆ",
+      "start": 45.76,
+      "end": 46.88,
+      "probability": 0.8997,
+      "risk_level": "HIGH"
+    },
+    {
+      "word": "ನಾನು",
+      "start": 46.88,
+      "end": 47.44,
+      "probability": 0.9703,
+      "risk_level": "VERY_HIGH"
+    },
+    {
+      "word": "ಇದೋ",
+      "start": 47.44,
+      "end": 47.76,
+      "probability": 0.9214,
+      "risk_level": "VERY_HIGH"
+    },
+    {
+      "word": "ಸಿಸ್ಕೊಳಿನ",
+      "start": 47.76,
+      "end": 49.4,
+      "probability": 0.8542,
+      "risk_level": "HIGH"
+    },
+    {
+      "word": "ಇದೋ",
+      "start": 49.4,
+      "end": 49.92,
+      "probability": 0.8596,
+      "risk_level": "HIGH"
+    },
+    {
+      "word": "ಪ್ಲಾಂಟ್",
+      "start": 49.92,
+      "end": 50.72,
+      "probability": 0.8672,
+      "risk_level": "HIGH"
+    },
+    {
+      "word": "ಮಾರುದಿನೆನ್",
+      "start": 50.72,
+      "end": 52.08,
+      "probability": 0.8056,
+      "risk_level": "HIGH"
+    },
+    {
+      "word": "ನಿನು",
+      "start": 52.08,
+      "end": 53.0,
+      "probability": 0.8983,
+      "risk_level": "HIGH"
+    },
+    {
+      "word": "ದಿನಾ",
+      "start": 53.0,
+      "end": 53.38,
+      "probability": 0.9234,
+      "risk_level": "VERY_HIGH"
+    },
+    {
+      "word": "ನಿನು",
+      "start": 53.38,
+      "end": 54.1,
+      "probability": 0.9302,
+      "risk_level": "VERY_HIGH"
+    },
+    {
+      "word": "ರಿವರ್",
+      "start": 55.54,
+      "end": 56.4,
+      "probability": 0.9747,
+      "risk_level": "VERY_HIGH"
+    },
+    {
+      "word": "ಇಂದಪರ್ತಾ",
+      "start": 56.4,
+      "end": 57.82,
+      "probability": 0.8648,
+      "risk_level": "HIGH"
+    },
+    {
+      "word": "ನಿನು",
+      "start": 57.82,
+      "end": 58.68,
+      "probability": 0.9907,
+      "risk_level": "VERY_HIGH"
+    },
+    {
+      "word": "ತಾವಿದು",
+      "start": 58.68,
+      "end": 59.12,
+      "probability": 0.7339,
+      "risk_level": "MEDIUM"
+    }
+  ],
+  "uncertain_words": [],
+  "pipeline_stages": "audio_enhancement -> raw_whisper_transcript -> disfluency_cleanup -> asr_normalization -> final_correction -> similarity_validation -> corrected_audio_generated"
+}
